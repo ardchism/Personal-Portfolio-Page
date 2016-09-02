@@ -16,7 +16,7 @@ typedef struct plane_info {
 	char flight_number[10];
 	char org_airport[5];
 	char dest_airport[5];
-	int start_time;
+	int start_time; 
 	int end_time;
 	struct plane_info *next;
 }plane_info;
