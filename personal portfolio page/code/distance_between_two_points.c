@@ -1,4 +1,4 @@
-/**********Use:find the distance between 2 points*****************/
+/**********Use:find the distance between Two points*****************/
 /**********Author:Adam Chisholm**********************************/
 /**********Created:9/11/2015************************************/
 /**********Line added for Git**********************************/
