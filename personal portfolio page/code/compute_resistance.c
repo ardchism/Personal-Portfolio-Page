@@ -1,6 +1,7 @@
 /**********Use:compute resistance**********************/
 /**********Author:Adam Chisholm**********************************/
 /**********Created:9/11/2015************************************/
+/**********Line Added to test branches**************************/
 
 #include <stdio.h>
 #include <string.h>
