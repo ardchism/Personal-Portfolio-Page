@@ -1,0 +1,95 @@
+
+#topContainer {
+	background-image: url("background_7.jpg");
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	color: lightgrey;
+}
+
+
+#topRow{
+	margin-top:100px;
+	text-align: center;
+	color: black;
+	background-color: rgba(224, 224, 224, 0.5);
+	border-radius:25px;
+}
+
+#topRowProject{
+	margin-top:100px;
+	text-align: center;
+	color: black;
+}
+
+#topRowProject tr{
+	background-color: rgba(224, 224, 224, 0.5);
+}
+
+#topRow h1{
+		font-size: 250%;
+}
+
+#topRow li{
+	background-color: rgba(224, 224, 224, 0.5);
+}
+
+.bold{
+	font-weight: bold;
+}
+
+#UTDtext{
+	text-align: center;
+}
+
+#UTDpic{
+	margin-top: 10px;
+	margin-left: 8%;
+	width:500px;
+
+}
+
+#CLAtext{
+	text-align: center;
+}
+
+#CLApic{
+	margin-top: 10px;
+	margin-left: 8%;
+	width:500px;
+}
+
+#secondContainer{
+	background-color: #2F2F2F;
+	width: 100%;
+	color: lightgrey;
+}
+
+#secondContainerprojects{
+	width: 100%;
+	color: lightgrey;
+}
+
+#projects{
+	background-color: #2F2F2F;
+}
+
+#rowTwo{
+	border: 1px solid lightgrey;
+}
+
+#rowOne{
+	border: 1px solid lightgrey;
+}
+
+#githubpic{
+	margin-top: 10px;
+	margin-left: 8%;
+	width:500px;
+}
+
+#collapseOne{
+
+	background-color: rgba(224, 224, 224, 0.5);
+
+}

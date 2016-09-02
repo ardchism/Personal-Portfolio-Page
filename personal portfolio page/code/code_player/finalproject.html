@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+
+<head>
+
+	<title>Code Player</title>
+ 
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css"/>
+	<link rel="stylesheet" type="text/css" href="finalproject.css"/>
+
+</head>
+
+<body>
+
+		<div id="menuBar">
+			<h1 id="mainTitle">Adam's CodePlayer </h1>
+			<div id="tabs">
+				<div id="HTML" class="tabs">HTML</div>
+				<div id="CSS" class="tabs">CSS</div>
+				<div id="JAVA" class="tabs">JS</div>
+				<div id="result" class="tabs"><span class="toggles">Results</span></div>
+			</div>
+			<button id="run">Run</button> 
+		</div>
+		<br>
+		<div id="windows">
+			
+			<div class="window" id="htmlwindow">
+				<div id="HTMLtag" class="labels">HTML</div>
+				<textarea id="HTMLtext" >Example Code</textarea>
+			</div>
+			
+			<div class="window" id="csswindow">
+				<div id="CSStag" class="labels">CSS</div>
+				<textarea id="CSStext">Example Code</textarea>
+			</div>
+			
+			<div class="window" id="jswindow">
+				<div id="JStag" class="labels">JS</div>
+				<textarea id="JStext">Example Code</textarea>
+			</div>
+			
+			<div class="window" id="resultwindow">
+				<div id="RESULTtag" class="labels">Results</div>
+				<iframe id="resultsFrame"></iframe>
+			</div>
+			
+		</div>
+	
+
+
+
+	<script type="text/javascript" src="finalproject.js"></script>
+</body>
+</html>
