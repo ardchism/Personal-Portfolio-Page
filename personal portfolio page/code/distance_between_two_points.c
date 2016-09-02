@@ -2,6 +2,7 @@
 /**********Author:Adam Chisholm**********************************/
 /**********Created:9/11/2015************************************/
 /**********Line added for Git**********************************/
+/**********Add Another line to test branch********************/
 
 #include <stdio.h>
 #include <string.h>
@@ -28,6 +29,7 @@ int main(){
 	// Store second point from line
 	sscanf(line, "%f%f", &second_x, &second_y); 											
 	
+	// Print Results
 	printf("first piont is (%f, %f)\n", first_x, first_y);
 	printf("second point is (%f, %f)\n", second_x, second_y);
 	
