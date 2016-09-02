@@ -34,6 +34,7 @@ int main(){
 	
 	// Print result
 	printf("the total resistance of a %d resistor network is %f\n", number_resistors, total_resistance);
-	
+	printf("This is a git test");  // Used to test git push	
+
 	return(0);
 }
