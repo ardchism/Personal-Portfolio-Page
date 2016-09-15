@@ -1,0 +1,76 @@
+.
+├── FileStruct.txt
+├── personal portfolio page
+│   ├── background_7.jpg
+│   ├── CLA.jpg
+│   ├── code
+│   │   ├── code_player
+│   │   │   ├── finalproject.css
+│   │   │   ├── finalproject.html
+│   │   │   └── finalproject.js
+│   │   ├── Code_Player_Project.zip
+│   │   ├── compute_resistance.c
+│   │   ├── compute_resistance.exe
+│   │   ├── compute_resistance.out
+│   │   ├── data_structures.zip
+│   │   ├── distance_between_two_points.c
+│   │   ├── distance_between_two_points.exe
+│   │   ├── distance_between_two_points.out
+│   │   ├── Euler_1_8_tabs_Program.zip
+│   │   ├── Euler_1_8_tabs_Source.zip
+│   │   ├── Euler_9_program.zip
+│   │   ├── Euler_9_source.zip
+│   │   ├── Personal_Portfolio_Project.zip
+│   │   ├── Plane_Info_Log.c
+│   │   ├── Plane_Info_Log.exe
+│   │   ├── sort_functions.zip
+│   │   ├── SumOfPrimes_Program.zip
+│   │   └── SumOfPrimes_Source.zip
+│   ├── CppInstituteCertificate.pdf
+│   ├── cProjects.html
+│   ├── github.jpg
+│   ├── index.html
+│   ├── javaProjects.html
+│   ├── live
+│   │   ├── background_7.jpg
+│   │   ├── CLA.jpg
+│   │   ├── code
+│   │   │   ├── code_player
+│   │   │   │   ├── finalproject.css
+│   │   │   │   ├── finalproject.html
+│   │   │   │   └── finalproject.js
+│   │   │   ├── Code_Player_Project.zip
+│   │   │   ├── compute_resistance.c
+│   │   │   ├── compute_resistance.exe
+│   │   │   ├── compute_resistance.out
+│   │   │   ├── data_structures.zip
+│   │   │   ├── distance_between_two_points.c
+│   │   │   ├── distance_between_two_points.exe
+│   │   │   ├── distance_between_two_points.out
+│   │   │   ├── Euler_1_8_tabs_Program.zip
+│   │   │   ├── Euler_1_8_tabs_Source.zip
+│   │   │   ├── Euler_9_Program.zip
+│   │   │   ├── Euler_9_Source.zip
+│   │   │   ├── Personal_Portfolio_Project.zip
+│   │   │   ├── Plane_Info_Log.c
+│   │   │   ├── Plane_Info_Log.exe
+│   │   │   ├── sort_functions.zip
+│   │   │   ├── SumOfPrimes_Program.zip
+│   │   │   └── SumOfPrimes_Source.zip
+│   │   ├── CppInstituteCertificate.pdf
+│   │   ├── cProjects.php
+│   │   ├── github.jpg
+│   │   ├── index.php
+│   │   ├── javaProjects.php
+│   │   ├── Personal_Portfolio.css
+│   │   ├── Personal_Portfolio.js
+│   │   ├── UTD.jpg
+│   │   └── webProjects.php
+│   ├── Personal_Portfolio.css
+│   ├── Personal_Portfolio.js
+│   ├── UTD.jpg
+│   ├── webProjects.html
+│   └── webProjects.php
+└── README.md
+
+6 directories, 67 files
