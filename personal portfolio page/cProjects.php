@@ -43,10 +43,10 @@
 			<div class="collapse navbar-collapse" id="menubartabs">
 			
 				<ul class="nav navbar-nav navbar-right" id="navButtons">
-					<li class="active"><a href="cProjects.html">C Projects</a></li>
-					<li><a href="javaProjects.html">JAVA Projects</a></li>
-					<li><a href="webProjects.html">Web Applications</a></li>
-					<li><a href="index.html">About Me</a></li>
+					<li class="active"><a href="cProjects.php">C Projects</a></li>
+					<li><a href="javaProjects.php">JAVA Projects</a></li>
+					<li><a href="webProjects.php">Web Applications</a></li>
+					<li><a href="index.php">About Me</a></li>
 				</ul>	
 
 			</div>
