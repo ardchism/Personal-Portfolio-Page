@@ -1,0 +1,19 @@
+* f931f73 (origin/master, master) Add file with file tree
+| * a6dcede (HEAD -> DEV, origin/DEV) update readme, and add filelist files.
+|/  
+* a1d913c Update to comments in Plane_Info program and Updated the read me file.
+*   a87034f Merge branch 'DEV'
+|\  
+| * 2b64039 Made a change to a comment in plane info file
+| * d5e6960 Added print lines to the compute_resistance c program.
+| * abd2440 Add dev branch
+* | 7a2dec6 change made to master
+|/  
+*   a2e36b7 Merge branch 'master' into TestBranch1
+|\  
+| * cec6252 Master commit test 1
+* | 936d8e6 Commit test 2 to test branches feature
+* | ba8b420 Commit one to test branches features
+|/  
+* 0a1cb40 change 2 to two
+* 650dd8d Add comment to c fileto test git funstions
